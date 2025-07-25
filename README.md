@@ -11,6 +11,9 @@ A **fork** in GitHub creates a copy of someone else's repository in your account
 
 It's like cloning a project to make it your version.
 
+This is the calculator you are going to create
+![Calculator Screenshot](cal.png)
+
 
 ### 🔧 Step 1: Fork & Clone
 
@@ -43,6 +46,7 @@ npm install
 
 - From the forked repo, copy `App.jsx` and `App.css`
 - Replace the corresponding files in your Vite app under `src/`
+- You can customise
 
 ---
 
@@ -61,8 +65,8 @@ npm run dev
 
 ### 🚀 Step 5: Push Your Code to GitHub
 
-- Copy the updated files back to your forked repo folder
 - Commit and push your changes
+- Capture the final output and upload a screenshot of your calculator
 
 ---
 
